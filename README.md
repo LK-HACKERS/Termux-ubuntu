@@ -1,25 +1,3 @@
-
-```markdown
-# 🐧 Termux-Ubuntu Proot Setup
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=UBUNTU+ON+TERMUX;PROOT-DISTRO+SETUP;LK-HACKERS+PROMPT;NO+ROOT+NEEDED" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/LK-HACKERS/Termux-ubuntu">
-    <img src="https://img.shields.io/github/stars/LK-HACKERS/Termux-ubuntu?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/LK-HACKERS/Termux-ubuntu/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
-  </a>
-  <a href="https://github.com/LK-HACKERS/Termux-ubuntu/issues">
-    <img src="https://img.shields.io/github/issues/LK-HACKERS/Termux-ubuntu" alt="Issues" />
-  </a>
-</p>
-```
----
-
 ## 📌 About
 
 This repository provides a **one-command setup** to install **Ubuntu** inside **Termux** using `proot-distro` with a **custom hacker-style prompt** — `LK-HACKERS/TEAM:~$`
