@@ -17,8 +17,8 @@ Clone the repository and run:
 ```bash
 git clone https://github.com/LK-HACKERS/Termux-ubuntu.git
 cd Termux-ubuntu
-chmod +x setup.sh
-./setup.sh
+chmod +x run.sh
+./run.sh
 ```
 
 Or one-liner:
