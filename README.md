@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/issues/LK-HACKERS/Termux-ubuntu" alt="Issues" />
   </a>
 </p>
-
+```
 ---
 
 ## 📌 About
