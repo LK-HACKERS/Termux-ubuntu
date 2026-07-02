@@ -179,7 +179,7 @@ LK-HACKERS Team
 ---
 
 <p align="center">
-  <b>🔥 HACK THE PLANET 🔥</b><br>
+  <b>🔥 LK - HACKERS SRI LANKA 🇱🇰 🔥</b><br>
   <sub>Made with ❤️ & 1337 h4x0r skills</sub>
 </p>
 
