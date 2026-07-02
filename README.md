@@ -71,6 +71,7 @@ neofetch
 ---
 
 # Install tools
+```
 apt install metasploit-framework -y
 apt install nmap -y
 apt install python3 -y
