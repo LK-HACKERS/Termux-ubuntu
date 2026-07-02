@@ -59,13 +59,16 @@ LK-HACKERS/TEAM:~$
 
 ---
 
-🛠️ Inside Ubuntu
-
-Once inside, you can:
+🧪 Test Your Setup
 
 ```bash
-# Update packages
-apt update && apt upgrade -y
+# Inside Ubuntu
+apt update
+apt install neofetch -y
+neofetch
+```
+
+---
 
 # Install tools
 apt install metasploit-framework -y
