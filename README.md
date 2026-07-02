@@ -66,6 +66,9 @@ LK-HACKERS/TEAM:~$
 apt update
 apt install neofetch -y
 neofetch
+apt install fastfetch
+fastfetch
+
 ```
 
 ---
